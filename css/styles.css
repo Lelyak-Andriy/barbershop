@@ -29,3 +29,9 @@ letter-spacing: 0.05em;
 h2.section-title .lighten{
     color:#ffffff
 }
+.hero-description{
+ color: var(--text-secondary);
+ font-weight 400px;
+font-size: 14px;
+line-height: ;
+}
